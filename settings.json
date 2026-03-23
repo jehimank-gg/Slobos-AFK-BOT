@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "NightMantis703.aternos.me",
+    "port": 33460,
+    "version": "1.20.4"
   },
   "position": {
     "enabled": true,
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a minecraft bot",
+        "Killing Me will not help and only make the server bad.",
         "I like to play Minecraft!"
       ]
     },
